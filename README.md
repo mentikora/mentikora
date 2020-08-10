@@ -26,8 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentikora&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 [twitter]: https://twitter.com/Mentikora
 [linkedin]: https://www.linkedin.com/in/roman-horobets-b9290366/
 [instagram]: https://www.instagram.com/mentikora/
