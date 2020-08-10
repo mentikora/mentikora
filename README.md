@@ -1,5 +1,7 @@
 ### Hi there, I'm Roman.
 
+Passioned and responsible engineer, with a get-it-done, on-time and high-quality product spirit. I have experience defining requirements, designing, implementing and delivering complex front-end and web applications using variety technics and technologies. 
+
 ### Connect with me:
 
 [<img align="left" alt="mentikora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,8 +25,6 @@
 ---
 
 <img align="left" alt="Roman's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mentikora&show_icons=true&hide_border=true&&count_private=true&theme=radical" />
-
-###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentikora&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
