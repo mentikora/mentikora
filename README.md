@@ -25,5 +25,3 @@ Passioned and responsible engineer, with a get-it-done, on-time and high-quality
 ---
 
 [twitter]: https://twitter.com/Mentikora
-[linkedin]: https://www.linkedin.com/in/roman-horobets-b9290366/
-[instagram]: https://www.instagram.com/mentikora/
